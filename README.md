@@ -10,9 +10,9 @@ IvyApps lets students see successful applications and essays that were accepted 
 ### Successful College Applications:
 
 - [Successful Harvard Applications](http://ivyapps.org/full-college-applications/full-harvard-applications/)
-- [Successful Harvard Applications](http://ivyapps.org/full-college-applications/full-stanford-applications-worked/)
-- [Successful Harvard Applications](http://ivyapps.org/full-college-applications/full-princeton-applications/)
-- [Successful Harvard Applications](http://ivyapps.org/full-college-applications/full-yale-applications/)
+- [Successful Stanford Applications](http://ivyapps.org/full-college-applications/full-stanford-applications-worked/)
+- [Successful Princeton Applications](http://ivyapps.org/full-college-applications/full-princeton-applications/)
+- [Successful Yale Applications](http://ivyapps.org/full-college-applications/full-yale-applications/)
 
 ### Successful College Essays:
 
